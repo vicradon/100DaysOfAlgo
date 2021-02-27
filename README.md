@@ -13,4 +13,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 3   | [Largest Prime Factor](https://projecteuler.net/problem=3)        | [Largest Prime Factor](/largest_prime_factor.py)             |
 | 4   | [Largest Palindrome Product](https://projecteuler.net/problem=4)  | [Largest Palindrome Product](/largest_palindrome_product.py) |
 | 5   | [Smallest Multiple](https://projecteuler.net/problem=5)           | [Smallest Multiple](/smallest_multiple.py)                   |
-| 5   | [Sum of Square Difference](https://projecteuler.net/problem=6)    | [Sum of Square Difference](/sum_square_difference.py)        |
+| 6   | [Sum of Square Difference](https://projecteuler.net/problem=6)    | [Sum of Square Difference](/sum_square_difference.py)        |
+| 7   | [10001st Prime](https://projecteuler.net/problem=7)               | [10001st Prime](/10001st.py)                                 |
