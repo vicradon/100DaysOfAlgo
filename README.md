@@ -17,3 +17,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 7   | [10001st Prime](https://projecteuler.net/problem=7)               | [10001st Prime](/10001st.py)                                   |
 | 8   | [Largest Product In A Series](https://projecteuler.net/problem=8) | []()                                                           |
 | 9   | [Special Pythagorean Triplet](https://projecteuler.net/problem=9) | [Special Pythagorean Triplet](/special_pythagorean_triplet.py) |
+| 10  | [Summation of Primes](https://projecteuler.net/problem=10)        | [Summation of Primes](/summation_of_primes.py)                 |
