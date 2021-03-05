@@ -20,3 +20,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 10  | [Summation of Primes](https://projecteuler.net/problem=10)               | [Summation of Primes](/summation_of_primes.py)                             | true       |
 | 11  | [Largest Product in Grid](https://projecteuler.net/problem=11)           | [Largest Product in Grid](/largest_product_in_grid.py)                     | false      |
 | 12  | [Highest Divisible Triangle Number](https://projecteuler.net/problem=12) | [Highest Divisible Triangle Number](/highest_divisible_triangle_number.py) | false      |
+| 13  | [Large Sum](https://projecteuler.net/problem=13)                         | [Large Sum](/large_sum.py)                                                 | true       |
