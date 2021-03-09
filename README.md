@@ -22,3 +22,6 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 12  | [Highest Divisible Triangle Number](https://projecteuler.net/problem=12) | [Highest Divisible Triangle Number](/highest_divisible_triangle_number.py) | false      |
 | 13  | [Large Sum](https://projecteuler.net/problem=13)                         | [Large Sum](/large_sum.py)                                                 | true       |
 | 14  | [Longest Collatz Sequence](https://projecteuler.net/problem=14)          | [Longest Collatz Sequence](/longest_collatz_sequence.py)                   | true       |
+| 15  | [Lattice Paths](https://projecteuler.net/problem=15)                     | [Lattice Paths](/lattice_paths.py)                                         | true       |
+| 16  | [Power Digit Sum](https://projecteuler.net/problem=16)                   | [Power Digit Sum](/power_digit_sum.py)                                     | true       |
+| 17  | [Number Letter Count](https://projecteuler.net/problem=17)               | [Number Letter Count](/number_letter_count.py)                             | true       |
