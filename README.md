@@ -26,5 +26,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 16  | [Power Digit Sum](https://projecteuler.net/problem=16)                   | [Power Digit Sum](/power_digit_sum.py)                                     | true       |
 | 17  | [Number Letter Count](https://projecteuler.net/problem=17)               | [Number Letter Count](/number_letter_count.py)                             | true       |
 | 18  | [Maximum Path Sum 1](https://projecteuler.net/problem=18)                | [Maximum Path Sum 1](/maximum_path_sum_1.py)                               | false      |
-| 19  | [Counting Sundays](https://projecteuler.net/problem=19)                  | [Counting Sundays](/counting_sundays.py)                                   | false      |
+| 19  | [Counting Sundays](https://projecteuler.net/problem=19)                  | [Counting Sundays](/counting_sundays.py)                                   | true       |
 | 20  | [Factorial Digit Sum](https://projecteuler.net/problem=20)               | [Factorial Digit Sum](/factorial_digit_sum.py)                             | true       |
