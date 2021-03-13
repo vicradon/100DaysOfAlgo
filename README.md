@@ -28,3 +28,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 18  | [Maximum Path Sum 1](https://projecteuler.net/problem=18)                | [Maximum Path Sum 1](/maximum_path_sum_1.py)                               | false      |
 | 19  | [Counting Sundays](https://projecteuler.net/problem=19)                  | [Counting Sundays](/counting_sundays.py)                                   | true       |
 | 20  | [Factorial Digit Sum](https://projecteuler.net/problem=20)               | [Factorial Digit Sum](/factorial_digit_sum.py)                             | true       |
+| 21  | [Amicable Numbers Sum](https://projecteuler.net/problem=21)              | [Amicable Numbers Sum](/amicable_numbers_sum.py)                           | true       |
