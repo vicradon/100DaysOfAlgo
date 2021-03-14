@@ -29,3 +29,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 19  | [Counting Sundays](https://projecteuler.net/problem=19)                  | [Counting Sundays](/counting_sundays.py)                                   | true       |
 | 20  | [Factorial Digit Sum](https://projecteuler.net/problem=20)               | [Factorial Digit Sum](/factorial_digit_sum.py)                             | true       |
 | 21  | [Amicable Numbers Sum](https://projecteuler.net/problem=21)              | [Amicable Numbers Sum](/amicable_numbers_sum.py)                           | true       |
+| 22  | [Name Scores](https://projecteuler.net/problem=22)                       | [Name Scores](/names_scores.py)                                            | true       |
