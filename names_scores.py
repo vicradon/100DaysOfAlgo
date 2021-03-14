@@ -1,5 +1,5 @@
 def wordToInt(word):
-    alphabets = list('abcdefghijklmnopqrstuvwxyz')
+    alphabets = 'abcdefghijklmnopqrstuvwxyz'
     return sum([alphabets.index(char) + 1 for char in word.lower()])
 
 
