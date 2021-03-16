@@ -30,3 +30,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 20  | [Factorial Digit Sum](https://projecteuler.net/problem=20)               | [Factorial Digit Sum](/factorial_digit_sum.py)                             | true       |
 | 21  | [Amicable Numbers Sum](https://projecteuler.net/problem=21)              | [Amicable Numbers Sum](/amicable_numbers_sum.py)                           | true       |
 | 22  | [Name Scores](https://projecteuler.net/problem=22)                       | [Name Scores](/names_scores.py)                                            | true       |
+| 23  | [Non-Abundant Sums](https://projecteuler.net/problem=23)                 | [Non-Abundant Sums](/non_abundant_sums.py)                                 | false      |
+| 24  | [Lexicographic permutations](https://projecteuler.net/problem=24)        | [Lexicographic permutations](/lexicographic_permutations.py)               | true       |

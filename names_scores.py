@@ -3,7 +3,7 @@ def wordToInt(word):
     return sum([alphabets.index(char) + 1 for char in word.lower()])
 
 
-def nameScores(names):
+0def nameScores(names):
     sortedNames = sorted(names)
     return sum([wordToInt(word) * (index + 1) for index, word in enumerate(sortedNames)])
 
@@ -14,3 +14,4 @@ names = list(filter(lambda char: char !=
                     ',' and char != '', raw_names.split('"')))
 
 print(nameScores(names))
+`
