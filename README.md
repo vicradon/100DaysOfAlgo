@@ -32,3 +32,7 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 22  | [Name Scores](https://projecteuler.net/problem=22)                       | [Name Scores](/names_scores.py)                                            | true       |
 | 23  | [Non-Abundant Sums](https://projecteuler.net/problem=23)                 | [Non-Abundant Sums](/non_abundant_sums.py)                                 | false      |
 | 24  | [Lexicographic permutations](https://projecteuler.net/problem=24)        | [Lexicographic permutations](/lexicographic_permutations.py)               | true       |
+| 25  | [Thousand Digit Fibonacci Number](https://projecteuler.net/problem=25)   | [Thousand Digit Fibonacci Number](/thousand_digit_fibonacci_number.py)     | true       |
+| 26  | [Reciprocal Cycles](https://projecteuler.net/problem=26)                 | [Reciprocal Cycles](/reciprocal_cycles.py)                                 | false      |
+| 27  | [Quadratic Primes](https://projecteuler.net/problem=27)                  | [Quadratic Primes](/quadratic_primes.py)                                   | false      |
+| 28  | [Number Spiral Diagonals](https://projecteuler.net/problem=28)           | [Number Spiral Diagonals](/number_spiral_diagonals.py)                     | true       |
