@@ -36,3 +36,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 26  | [Reciprocal Cycles](https://projecteuler.net/problem=26)                 | [Reciprocal Cycles](/reciprocal_cycles.py)                                 | false      |
 | 27  | [Quadratic Primes](https://projecteuler.net/problem=27)                  | [Quadratic Primes](/quadratic_primes.py)                                   | false      |
 | 28  | [Number Spiral Diagonals](https://projecteuler.net/problem=28)           | [Number Spiral Diagonals](/number_spiral_diagonals.py)                     | true       |
+| 29  | [Distinct Powers](https://projecteuler.net/problem=29)                   | [Distinct Powers](/distinct_powers.py)                                     | true       |
