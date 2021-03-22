@@ -37,3 +37,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 27  | [Quadratic Primes](https://projecteuler.net/problem=27)                  | [Quadratic Primes](/quadratic_primes.py)                                   | false      |
 | 28  | [Number Spiral Diagonals](https://projecteuler.net/problem=28)           | [Number Spiral Diagonals](/number_spiral_diagonals.py)                     | true       |
 | 29  | [Distinct Powers](https://projecteuler.net/problem=29)                   | [Distinct Powers](/distinct_powers.py)                                     | true       |
+| 30  | [Digit Fifth Powers](https://projecteuler.net/problem=30)                | [Digit Fifth Powers](/digit_fifth_powers.py)                               | true       |
