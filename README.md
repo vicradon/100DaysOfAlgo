@@ -38,3 +38,6 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 28  | [Number Spiral Diagonals](https://projecteuler.net/problem=28)           | [Number Spiral Diagonals](/number_spiral_diagonals.py)                     | true       |
 | 29  | [Distinct Powers](https://projecteuler.net/problem=29)                   | [Distinct Powers](/distinct_powers.py)                                     | true       |
 | 30  | [Digit Fifth Powers](https://projecteuler.net/problem=30)                | [Digit Fifth Powers](/digit_fifth_powers.py)                               | true       |
+| 31  | [Coin Sums](https://projecteuler.net/problem=31)                         | [Coin Sums](/digit_fifth_powers.py)                                        | false      |
+| 32  | [Pandigital Products](https://projecteuler.net/problem=32)               | [Pandigital Products](/pandigital_products.py)                             | true       |
+| 33  | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)        | [Digit Cancelling Fractions](/digit_cancelling_fractions.py)               | true       |
