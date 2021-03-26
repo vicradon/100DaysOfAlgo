@@ -41,3 +41,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 31  | [Coin Sums](https://projecteuler.net/problem=31)                         | [Coin Sums](/digit_fifth_powers.py)                                        | false      |
 | 32  | [Pandigital Products](https://projecteuler.net/problem=32)               | [Pandigital Products](/pandigital_products.py)                             | true       |
 | 33  | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)        | [Digit Cancelling Fractions](/digit_cancelling_fractions.py)               | true       |
+| 34  | [Digit Factorials](https://projecteuler.net/problem=34)                  | [Digit Factorials](/digit_factorials.py)                                   | true       |
