@@ -42,3 +42,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 32  | [Pandigital Products](https://projecteuler.net/problem=32)               | [Pandigital Products](/pandigital_products.py)                             | true       |
 | 33  | [Digit Cancelling Fractions](https://projecteuler.net/problem=33)        | [Digit Cancelling Fractions](/digit_cancelling_fractions.py)               | true       |
 | 34  | [Digit Factorials](https://projecteuler.net/problem=34)                  | [Digit Factorials](/digit_factorials.py)                                   | true       |
+| 35  | [Circular Primes](https://projecteuler.net/problem=35)                   | [Circular Primes](/circular_primes.py)                                     | true       |
