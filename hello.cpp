@@ -1,16 +1,11 @@
 #include <iostream>
-#include <vector>
-#include <string>
-
 using namespace std;
 
 int main()
 {
-    vector<string> msg {"Hello", "C++", "World", "from", "Code", "Blah blah blah and the C++ extension!"};
+    short some_number = 8233;
+    cout << "Hello, world"
+         << " " << some_number << endl;
 
-    for (const string& word : msg)
-    {
-        cout << word << " ";
-    }
-    cout << endl;
+    return 0;
 }

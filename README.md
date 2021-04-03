@@ -44,4 +44,6 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 34  | [Digit Factorials](https://projecteuler.net/problem=34)                  | [Digit Factorials](/digit_factorials.py)                                   | true       |
 | 35  | [Circular Primes](https://projecteuler.net/problem=35)                   | [Circular Primes](/circular_primes.py)                                     | true       |
 | 36  | [Double-base Palindromes](https://projecteuler.net/problem=36)           | [Double-base Palindromes](/double_base_palindromes.py)                     | true       |
-| 37  | [Prime Digit Replacements](https://projecteuler.net/problem=51)          | [Prime Digit Replacements](/prime_digit_replacements.py)                   | false      |
+| 37  | [Pandigital multiples](https://projecteuler.net/problem=37)              | [Pandigital multiples](/pandigital_multiples.py)                           | false      |
+| 38  | [Integer right triangles](https://projecteuler.net/problem=38)           | [Integer right triangles](/integer_right_triangles.py)                     | false      |
+| 43  | [Substring Divisibility](https://projecteuler.net/problem=43)            | [Substring Divisibility](/substringDivisibility.py)                        | true       |
