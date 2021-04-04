@@ -47,3 +47,4 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 37  | [Pandigital multiples](https://projecteuler.net/problem=37)              | [Pandigital multiples](/pandigital_multiples.py)                           | false      |
 | 38  | [Integer right triangles](https://projecteuler.net/problem=38)           | [Integer right triangles](/integer_right_triangles.py)                     | false      |
 | 43  | [Substring Divisibility](https://projecteuler.net/problem=43)            | [Substring Divisibility](/substringDivisibility.py)                        | true       |
+| 44  | [Pentagon Numbers](https://projecteuler.net/problem=44)                  | [Pentagon Numbers](/pentagonal_numbers.py)                              | true       |
