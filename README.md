@@ -49,3 +49,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 43  | [Substring Divisibility](https://projecteuler.net/problem=43)            | [Substring Divisibility](/substringDivisibility.py)                        | true       |
 | 44  | [Pentagon Numbers](https://projecteuler.net/problem=44)                  | [Pentagon Numbers](/pentagonal_numbers.py)                                 | true       |
 | 45  | [Triangular Pentagonal Hexagonal](https://projecteuler.net/problem=45)   | [Triangular Pentagonal Hexagonal](/triangular_pentagonal_hexagonal.py)     | true       |
+| 46  | [Goldbach's other conjecture](https://projecteuler.net/problem=46)       | [Goldbach's other conjecture](/goldbach_other_conjecture.py)               | true       |
+| 47  | [ Distinct primes factors](https://projecteuler.net/problem=47)          | [ Distinct primes factors](/distinct_primes_factors.py)                    | true       |
