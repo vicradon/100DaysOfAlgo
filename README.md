@@ -51,3 +51,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 45  | [Triangular Pentagonal Hexagonal](https://projecteuler.net/problem=45)   | [Triangular Pentagonal Hexagonal](/triangular_pentagonal_hexagonal.py)     | true       |
 | 46  | [Goldbach's other conjecture](https://projecteuler.net/problem=46)       | [Goldbach's other conjecture](/goldbach_other_conjecture.py)               | true       |
 | 47  | [ Distinct primes factors](https://projecteuler.net/problem=47)          | [ Distinct primes factors](/distinct_primes_factors.py)                    | true       |
+| 48  | [Self Powers](https://projecteuler.net/problem=48)                       | [Self Powers](/self_powers.py)                                             | true       |
+| 49  | [ Prime Permutations](https://projecteuler.net/problem=49)               | [ Prime Permutations](/prime_permutations.py)                              | true       |
