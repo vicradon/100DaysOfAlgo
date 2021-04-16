@@ -52,4 +52,12 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 46  | [Goldbach's other conjecture](https://projecteuler.net/problem=46)       | [Goldbach's other conjecture](/goldbach_other_conjecture.py)               | true       |
 | 47  | [ Distinct primes factors](https://projecteuler.net/problem=47)          | [ Distinct primes factors](/distinct_primes_factors.py)                    | true       |
 | 48  | [Self Powers](https://projecteuler.net/problem=48)                       | [Self Powers](/self_powers.py)                                             | true       |
-| 49  | [ Prime Permutations](https://projecteuler.net/problem=49)               | [ Prime Permutations](/prime_permutations.py)                              | true       |
+| 49  | [Self Powers](https://projecteuler.net/problem=49)                       | [Self Powers](/self_powers.py)                                             | true       |
+| 50  | [ Prime Permutations](https://projecteuler.net/problem=50)               | [ Prime Permutations](/prime_permutations.py)                              | false      |
+| 51  | [ Prime Permutations](https://projecteuler.net/problem=51)               | [ Prime Permutations](/prime_permutations.py)                              | false      |
+| 52  | [Permuted Multiples](https://projecteuler.net/problem=52)                | [Permuted Multiples](/permuted_multiples.py)                               | true       |
+| 53  | [Combinatoric Selections](https://projecteuler.net/problem=53)           | [Combinatoric Selections](/combinatoric_selections.py)                     | true       |
+| 54  | [Lychrel numbers](https://projecteuler.net/problem=54)                   | [Lychrel numbers](/lychrel_numbers.py)                                     | false      |
+| 55  | [Lychrel numbers](https://projecteuler.net/problem=55)                   | [Lychrel numbers](/lychrel_numbers.py)                                     | false      |
+| 56  | [Lychrel numbers](https://projecteuler.net/problem=56)                   | [Lychrel numbers](/lychrel_numbers.py)                                     | false      |
+| 57  | [Square root convergents](https://projecteuler.net/problem=57)           | [Square root convergents](/square_root_convergents.py)                     | false      |
