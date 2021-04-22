@@ -62,3 +62,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 56  | [Lychrel numbers](https://projecteuler.net/problem=56)                   | [Lychrel numbers](/lychrel_numbers.py)                                     | false      |
 | 57  | [Square root convergents](https://projecteuler.net/problem=57)           | [Square root convergents](/square_root_convergents.py)                     | false      |
 | 58  | [Spiral Primes](https://projecteuler.net/problem=58)                     | [Spiral Primes](/spiral_primes.py)                                         | false      |
+| 62  | [Cubic Permutations](https://projecteuler.net/problem=62)                | [Cubic Permutations](/cubic_permutations.py)                               | true       |
+| 63  | [Powerful Digit Counts](https://projecteuler.net/problem=63)             | [Powerful Digit Counts](/powerful_digit_counts.py)                         | true       |
