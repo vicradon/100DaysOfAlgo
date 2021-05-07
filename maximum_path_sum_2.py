@@ -1,5 +1,5 @@
 def extractTree():
-    with open('p018_triangular_tree.txt', 'r') as fileAddr:
+    with open('p067_triangle.txt', 'r') as fileAddr:
         content = fileAddr.read()
         lines = content.split("\n")
         reversedLines = reversed(lines)

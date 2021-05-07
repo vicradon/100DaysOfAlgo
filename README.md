@@ -64,3 +64,5 @@ If a solution cannot be found on a particular day, that problem is skipped.
 | 58  | [Spiral Primes](https://projecteuler.net/problem=58)                     | [Spiral Primes](/spiral_primes.py)                                         | false      |
 | 62  | [Cubic Permutations](https://projecteuler.net/problem=62)                | [Cubic Permutations](/cubic_permutations.py)                               | true       |
 | 63  | [Powerful Digit Counts](https://projecteuler.net/problem=63)             | [Powerful Digit Counts](/powerful_digit_counts.py)                         | true       |
+| 64  | [odd Period Square Roots](https://projecteuler.net/problem=64)           | [odd Period Square Roots](/odd_period_square_roots.py)                     | true       |
+| 69  | [Totient Maximum](https://projecteuler.net/problem=69)                   | [Totient Maximum](/totient_maximum.py)                                     | true       |
