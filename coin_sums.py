@@ -7,8 +7,7 @@ def coinSums(number, pieces):
     freq = number
 
     while True:
-
-    return multiplicationMap
+      return multiplicationMap
 
 
 print(coinSums(200, [1, 2, 5, 10, 20, 50, 100]))
